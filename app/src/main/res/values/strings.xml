@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GalleryDemo</string>
+    
+    <string name="error_photo_loading">Error while loading photo</string>
+    <string name="share_photo_choose_title">Share with</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.gallerydemo.ui.widgets.SquareFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp">
+    <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/img"
+        android:transitionName="photo_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ImageView>
+</com.example.gallerydemo.ui.widgets.SquareFrameLayout>
